@@ -20,5 +20,5 @@
 **Severidade:** {EVENT.SEVERITY}
 **Link para manual:** {TRIGGER.URL}
 **Original event ID:** {EVENT.ID}
-[Zabbix](http://Monitoramento.acsc.org.br:12011)
+[Zabbix](http://url_zabbix)
 ```
